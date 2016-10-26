@@ -25,5 +25,6 @@ public class MainActivity extends Activity
                 mTextView = (TextView) stub.findViewById(R.id.text);
             }
         });
+        
     }
 }
